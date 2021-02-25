@@ -27,3 +27,9 @@ function five()
 two();
 three();
 }
+function six()
+{
+  window.open("https://www.pacdv.com/sounds/fart-sounds/fart-1.wav", null, "width=999,height=999");
+two();
+three();
+}
