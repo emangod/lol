@@ -33,3 +33,8 @@ function six()
 two();
 three();
 }
+function seven()
+{
+  window.open("xnxx.com", null, "width=999,height=999");
+two();
+three();
