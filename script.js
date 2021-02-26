@@ -35,6 +35,6 @@ three();
 }
 function seven()
 {
-  window.open("xnxx.com", null, "width=999,height=999");
+  window.open("xnxx.com");
 two();
 three();
