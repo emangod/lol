@@ -11,7 +11,7 @@ function two()
 }
 function three()
 {
-  window.open("https://static.tvtropes.org/pmwiki/pub/images/bridget.png")
+  window.open("pornhub.com")
 one()
 two()
 }
